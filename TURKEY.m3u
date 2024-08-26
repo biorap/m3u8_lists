@@ -1,30 +1,35 @@
 #EXTM3U
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,Alfa Omega TV
+#EXTINF:-1 ,E OKUL
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 1
 https://tabii-spor.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 2
 https://tabii-spor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 3
 https://tabii-spor3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 4
 https://tabii-spor4.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 5
 https://tabii-spor5.medya.trt.com.tr/master.m3u8
