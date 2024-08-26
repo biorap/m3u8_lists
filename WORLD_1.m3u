@@ -1,4 +1,162 @@
 #EXTM3U 
+#EXTINF:-1,AZ:ALVİN CHANNEL TV
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1,AZ:KEPEZ TV (GENCE)
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,AZ:EL TV (YEVLAX)
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:-1,AZ:NAXCIVAN TV
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:-1,AZ:SES TV
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
+#EXTINF:-1,AZ:QEBELE TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1,AZ:INTERAZ TV
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
+#EXTINF:-1,AZ:BAKU TV SD
+https://rtmp.baku.tv/live/bakutv_360p.m3u8
+#EXTINF:-1,AZ:MUGAN TV AZ
+http://server002.dreamstar.ru.com/azerbaijan/mugan/playlist.m3u8
+#EXTINF:-1,AZ:UMID TV SD 360
+https://cdn-umudtv.yayin.com.tr/umudtv/umudtv_360p/playlist.m3u8
+#EXTINF:-1,AZ:GUNAZ TV
+http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed03/chunklist_w.m3u8
+#EXTINF:-1,AZ:HADI TV AZ
+https://live.ishiacloud.com/eNKFSxPMUbQFq5fP_480p/index.m3u8
+#EXTINF:-1,AZ:AN.T HD
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1,AZ:AZSTAR TV SD 240 p
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1,AZ:AL-ZAHRA TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1,AZ:ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
+#EXTINF:-1,AZ:KANAL 12 AZ
+http://yayin.netradyom.com:1935/live/kanal12/chunklist_w.m3u8
+#EXTINF:-1,AZ:LIVETV AZ
+http://server002.dreamstar.ru.com/azerbaijan/livetv/playlist.m3u8
+#EXTINF:-1,AZ:APA TV
+https://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1,AZ:MEDIA FM AZ
+http://server002.dreamstar.ru.com/mediafm/live/playlist.m3u8
+#EXTINF:-1,AZE:AZAD AZE
+http://server1.dreamstar.ru.com/azerbaijan/atv_sd_stream4/playlist.m3u8
+#EXTINF:-1,AZE:MUZ TV AZE
+http://server002.dreamstar.ru.com/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1,AZE:MEDENIYYET TV
+http://server1.dreamstar.ru.com/azerbaijan/medeniyyet_stream2/playlist.m3u8
+#EXTINF:-1,AZE:ICTIMAI TV
+http://server1.dreamstar.ru.com/azerbaijan/ictimai_stream2/playlist.m3u8
+#EXTINF:-1,AZE:AZTV
+http://server1.dreamstar.ru.com/azerbaijan/aztv_stream2/playlist.m3u8
+#EXTINF:-1,AZE:CBC SPORT HD
+http://server002.dreamstar.ru.com/azerbaijan/cbc_sport/playlist.m3u8
+#EXTINF:-1,AZE:CBC TV AZ
+http://server002.dreamstar.ru.com/azerbaijan/cbc/playlist.m3u8
+#EXTINF:-1,AZE:XEZER TV
+http://server1.dreamstar.ru.com/azerbaijan/xazar_sd_stream_2/playlist.m3u8
+#EXTINF:-1,AZE:SPACE TV
+http://server1.dreamstar.ru.com/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1,AZE:DUNYA TV
+http://server002.dreamstar.ru.com/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1,AZE:REAL TV
+http://server002.dreamstar.ru.com/azerbaijan/real/playlist.m3u8
+#EXTINF:-1,AZE:ARB TV
+http://server002.dreamstar.ru.com/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1,AZE:ARB24
+http://server002.dreamstar.ru.com/azerbaijan/24/playlist.m3u8
+#EXTINF:-1,AZE:ARB GUNES
+http://server1.dreamstar.ru.com/azerbaijan/gunes/playlist.m3u8
+#EXTINF:-1,DE.Das Erste
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15659
+#EXTINF:-1,DE.SAT 1
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15701
+#EXTINF:-1,DE.VOX
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15712
+#EXTINF:-1,DE.ZDF
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15713
+#EXTINF:-1,DE.SAT 1 Gold
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15702
+#EXTINF:-1,DE.SUPER RTL
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15706
+#EXTINF:-1,DE.3SAT
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15650
+#EXTINF:-1,DE.RTL
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15697
+#EXTINF:-1,DE.RTL Crime
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15698
+#EXTINF:-1,DE.RTL Plus
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15699
+#EXTINF:-1,DE.RTL 2
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15700
+#EXTINF:-1,DE.Pro7
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15693
+#EXTINF:-1,DE.Pro7 MAXX
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15694
+#EXTINF:-1,DE.ProSieben
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15695
+#EXTINF:-1,DE.SYFY
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15707
+#EXTINF:-1,DE.TELE 5
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15708
+#EXTINF:-1,DE.TLC
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15709
+#EXTINF:-1,DE.TOGGO
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15710
+#EXTINF:-1,DE.ZDF_neo
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15714
+#EXTINF:-1,DE.ZDFinfo
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15715
+#EXTINF:-1,DE.ZEE ONE
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15716
+#EXTINF:-1,DE.ATV
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15653
+#EXTINF:-1,DE.Boomerang
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15654
+#EXTINF:-1,DE.Cartoon Network
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15655
+#EXTINF:-1,DE.Disney Channel
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15663
+#EXTINF:-1,DE.Disney Cinemagic
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15664
+#EXTINF:-1,DE.Disney Junior
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15665
+#EXTINF:-1,DE.Disney XD
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15666
+#EXTINF:-1,DE.DMAX
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15667
+#EXTINF:-1,DE.Euronews
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15669
+#EXTINF:-1,DE.History
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15673
+#EXTINF:-1,DE.Junior
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15674
+#EXTINF:-1,DE.kabel eins
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15675
+#EXTINF:-1,DE.kabel eins Doku
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15676
+#EXTINF:-1,DE.KiKA
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15677
+#EXTINF:-1,DE.Kinowelt TV
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15678
+#EXTINF:-1,DE.MTV
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15680
+#EXTINF:-1,DE.N-TV
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15681
+#EXTINF:-1,DE.N24 DOKU
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15682
+#EXTINF:-1,DE.Nat Geo Wild
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15683
+#EXTINF:-1,DE.Nat Geo
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15684
+#EXTINF:-1,DE.NatGeo Wild
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15685
+#EXTINF:-1,DE.National Geographic
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15686
+#EXTINF:-1,DE.Nickelodeon
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15687
+#EXTINF:-1,DE.NITRO
+http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/15688
 #EXTINF:-1,Al JAZEERA English UHD
 http://live-hls-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Al JAZEERA English FHD
