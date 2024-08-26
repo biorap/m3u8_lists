@@ -47,12 +47,6 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_si
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1,KANAL 23
 https://waw1.artiyerelmedya.net/kanal23/bant1/chunks.m3u8
-#EXTINF:-1,KANAL FIRAT
-http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/13166
-#EXTINF:-1,DRT DENIZLI
-http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/5360
-#EXTINF:-1,BURSA TV
-http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/4604
 #EXTINF:-1,CAY TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
 #EXTINF:-1,ICEL TV
