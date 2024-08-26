@@ -41,16 +41,10 @@ https://tabii-spor5.medya.trt.com.tr/master.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BLOOMBERG HD
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1,TGRT HABER
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 #EXTINF:-1,24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
 #EXTINF:-1,TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:-1,KON TV
-http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/6313
-#EXTINF:-1,KANAL URFA
-http://dreamstariptv.com:8080/mag00:1A:79:29:0A:0C/JHJFtvlqLk/5391
 #EXTINF:-1,KANAL 23
 https://waw1.artiyerelmedya.net/kanal23/bant1/chunks.m3u8
 #EXTINF:-1,KANAL FIRAT
