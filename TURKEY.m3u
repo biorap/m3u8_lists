@@ -3,6 +3,8 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 1 (720p) [Geo-blocked]
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT SPOR
@@ -17,8 +19,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u
 #EXTINF:-1 ,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT AVAZ
@@ -27,16 +27,6 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,E OKUL
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 1
-https://tabii-spor.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 2
-https://tabii-spor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 3
-https://tabii-spor3.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 4
-https://tabii-spor4.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 5
-https://tabii-spor5.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BLOOMBERG HD
@@ -47,18 +37,6 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_si
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1,KANAL 23
 https://waw1.artiyerelmedya.net/kanal23/bant1/chunks.m3u8
-#EXTINF:-1,CAY TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
-#EXTINF:-1,ICEL TV
-http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
-#EXTINF:-1,ARAS TV
-https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
-#EXTINF:-1,AKIT TV HD
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1,TRT 1 (720p) [Geo-blocked]
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Show TV (720p) [Not 24/7]
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1,NTV
 http://api.ntv.com.tr/rss/LiveStream
 #EXTINF:-1,Haber Global (720p) [Not 24/7]
@@ -589,3 +567,23 @@ https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
 https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
 #EXTINF:-1,ÜÜ TV Üsküdar Üniversitesi TV
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/iptvdelisi.m3u8
+#EXTINF:-1,CAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
+#EXTINF:-1,ICEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
+#EXTINF:-1,ARAS TV
+https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
+#EXTINF:-1,AKIT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 ,TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u
+#EXTINF:-1 ,TABII SPOR 1
+https://tabii-spor.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 2
+https://tabii-spor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 3
+https://tabii-spor3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 4
+https://tabii-spor4.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TABII SPOR 5
+https://tabii-spor5.medya.trt.com.tr/master.m3u8
