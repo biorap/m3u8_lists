@@ -13,42 +13,92 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="TabiiSpor6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43020.jpeg" group-title="Spor",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="Ulusal",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="Spor",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="Spor",TRT Spor Yıldız
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
-#EXTINF:-1 tvg-name="TV 8" tvg-id="tv8" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="Ulusal",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-id="tv8bucuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="Ulusal",TV 8.5
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-id="atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/930px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1740717283&st=yL-OBZzRdUpRlPcb6M3-GQ&sid=775p5xxoqjws&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
 #EXTINF:-1 tvg-name="A Spor" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="Spor",A Spor
 https://tv.arectv13.sbs/live/aspor.m3u8
+#EXTINF:-1 group-title="Spor",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Spor",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Spor",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Ulusal",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Ulusal",TRT 1 (720p) [Geo-blocked]
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT 2
+#EXTINF:-1 group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT MÜZİK
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT MUZIK HD
+#EXTINF:-1 tvg-name="TV 8" tvg-id="tv8" tvg-logo="https://www.campaigntr.com/wp-content/uploads/2014/09/tv8-logo.png" group-title="Ulusal",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="tv8bucuk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="Ulusal",TV 8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-id="atv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/930px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1740717283&st=yL-OBZzRdUpRlPcb6M3-GQ&sid=775p5xxoqjws&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
+#EXTINF:-1 group-title="Ulusal",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="Ulusal",BLOOMBERG HD
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="Ulusal",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
+#EXTINF:-1 group-title="Ulusal",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 group-title="Ulusal",Beyaz TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 group-title="Ulusal",TV Em (486p)
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Müzik",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",Power Turk (1080p) [Not 24/7]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",PowerTürk TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",TRT MUZIK HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Müzik",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Müzik",POWER TV
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",POWER TV alt2
+https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",POWERTÜRK TV
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",POWERTÜRK TV alt2
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1 group-title="Müzik",Radyo Kulüp TV alt2
+https://59cba4d34b678.streamlock.net/canlitv/radyokuluptv/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Belgesel",TRT Belgesel (720p)
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT HABER
+
+#EXTINF:-1 group-title="Haber",KRT TV (1080p)
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 group-title="Haber",NTV
+http://api.ntv.com.tr/rss/LiveStream
+#EXTINF:-1 group-title="Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Haber",Haber Global (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 group-title="Haber",TGRT Haber (360p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+
 #EXTINF:-1 ,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT AVAZ
@@ -57,36 +107,21 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,E OKUL
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Ulusal",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1,BLOOMBERG HD
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1,24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
-#EXTINF:-1,TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+
+
 #EXTINF:-1,KANAL 23
 https://waw1.artiyerelmedya.net/kanal23/bant1/chunks.m3u8
-#EXTINF:-1,NTV
-http://api.ntv.com.tr/rss/LiveStream
-#EXTINF:-1,Haber Global (720p) [Not 24/7]
-https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+
+
 #EXTINF:-1,Almanya*da Türk TV
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
 #EXTINF:-1,Alanya Posta TV (1080p)
 http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1,TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 group-title="Spor",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 group-title="Ulusal",Beyaz TV (720p) [Not 24/7]
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1 group-title="Müzik",Power TV (1080p)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",Power Turk (1080p) [Not 24/7]
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",PowerTürk TV (720p) [Geo-blocked]
-https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+
+
+
 #EXTINF:-1,Love Nature (1080p)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
@@ -200,8 +235,6 @@ https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
 https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
 #EXTINF:-1,Kent Türk (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
-#EXTINF:-1,KRT TV (1080p)
-http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 #EXTINF:-1,Kudüs TV (480p) [Geo-blocked]
 https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
 #EXTINF:-1,Line TV (404p) [Not 24/7]
@@ -210,8 +243,7 @@ https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
 #EXTINF:-1,Mercan TV (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
-#EXTINF:-1,TV Em (486p)
-http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+
 #EXTINF:-1,Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1,OlayTürk Kayseri (720p) [Geo-blocked]
@@ -236,8 +268,6 @@ https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1,TGRT EU (576p)
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1,TGRT Haber (360p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1,Ton TV (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
 #EXTINF:-1,Toprak TV (720p) [Not 24/7]
@@ -478,18 +508,7 @@ http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:-1,ON4 TV
 http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
-#EXTINF:-1,POWER TV
-https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",POWER TV alt2
-https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",POWERTÜRK TV
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",POWERTÜRK TV alt2
-https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Müzik",Radyo Kulüp
-http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
-#EXTINF:-1 group-title="Müzik",Radyo Kulüp TV alt2
-https://59cba4d34b678.streamlock.net/canlitv/radyokuluptv/chunklist.m3u8
+
 #EXTINF:-1,Refahiye 24 TV
 https://win25.yayin.com.tr/refahiye24tv/refahiye24tv/chunklist.m3u8
 #EXTINF:-1,REHBER TV
