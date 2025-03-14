@@ -43,8 +43,10 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT MUZIK HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 ,TRT BELGESEL
+#EXTINF:-1 group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Belgesel",TRT Belgesel (720p)
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT TÜRK
@@ -75,20 +77,19 @@ http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist
 http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1,TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1,Sports TV (720p) [Geo-blocked]
+#EXTINF:-1 group-title="Spor",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1,Beyaz TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Ulusal",Beyaz TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1,Power TV (1080p)
+#EXTINF:-1 group-title="Müzik",Power TV (1080p)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1,Power Turk (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Müzik",Power Turk (1080p) [Not 24/7]
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1,PowerTürk TV (720p) [Geo-blocked]
+#EXTINF:-1 group-title="Müzik",PowerTürk TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
 #EXTINF:-1,Love Nature (1080p)
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,TRT Belgesel (720p)
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+
 #EXTINF:-1,Life TV (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
 #EXTINF:-1, like Gecko Chrome/76.0.3809.25 Safari/537.36",24 TV (1080p)
@@ -221,8 +222,6 @@ http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
 #EXTINF:-1,Öncü TV (1024p) [Not 24/7]
 https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
-#EXTINF:-1,Pluto TV BabyFirst (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Sarıyer TV (360p)
 http://s01.vpis.io/sariyer/sariyer.m3u8
 #EXTINF:-1,Satranç TV (480p) [Not 24/7]
@@ -233,7 +232,7 @@ https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
 #EXTINF:-1,Sun RTV (720p) [Not 24/7]
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
-#EXTINF:-1,TGRT Belgesel TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="Belgesel",TGRT Belgesel TV (576p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1,TGRT EU (576p)
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
@@ -481,15 +480,15 @@ http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
 #EXTINF:-1,POWER TV
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
-#EXTINF:-1,POWER TV alt2
+#EXTINF:-1 group-title="Müzik",POWER TV alt2
 https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
-#EXTINF:-1,POWERTÜRK TV
+#EXTINF:-1 group-title="Müzik",POWERTÜRK TV
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1,POWERTÜRK TV alt2
+#EXTINF:-1 group-title="Müzik",POWERTÜRK TV alt2
 https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
-#EXTINF:-1,Radyo Kulüp
+#EXTINF:-1 group-title="Müzik",Radyo Kulüp
 http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
-#EXTINF:-1,Radyo Kulüp TV alt2
+#EXTINF:-1 group-title="Müzik",Radyo Kulüp TV alt2
 https://59cba4d34b678.streamlock.net/canlitv/radyokuluptv/chunklist.m3u8
 #EXTINF:-1,Refahiye 24 TV
 https://win25.yayin.com.tr/refahiye24tv/refahiye24tv/chunklist.m3u8
@@ -503,7 +502,7 @@ http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 http://s01.vpis.io/sariyer/sariyer.m3u8
 #EXTINF:-1,ÜN TV - SELÇUK ÜNIVERSITESI TV
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
-#EXTINF:-1,Sports TV
+#EXTINF:-1 group-title="Spor",Sports TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,Sim TV
 http://kuzeykibris.tv/m3u8/tv_sim.m3u8
@@ -605,13 +604,13 @@ https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 ,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u
-#EXTINF:-1 ,TABII SPOR 1
+#EXTINF:-1 group-title="Spor",TABII SPOR 1
 https://tabii-spor.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 2
+#EXTINF:-1 group-title="Spor",TABII SPOR 2
 https://tabii-spor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 3
+#EXTINF:-1 group-title="Spor",TABII SPOR 3
 https://tabii-spor3.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 4
+#EXTINF:-1 group-title="Spor",TABII SPOR 4
 https://tabii-spor4.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TABII SPOR 5
+#EXTINF:-1 group-title="Spor",TABII SPOR 5
 https://tabii-spor5.medya.trt.com.tr/master.m3u8
