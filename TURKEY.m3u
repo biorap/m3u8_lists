@@ -1,54 +1,9 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-#EXTINF:-1 tvg-name="A Spor" tvg-id="A Spor.tr" tvg-logo="https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png" group-title="Spor",A Spor
-https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
-https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="TRT Spor Yıldız.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT Spor Yıldız
-https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="HT Spor" tvg-id="HT Spor.tr" tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj" group-title="Spor",HT Spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:-1 tvg-name="Sports TV" tvg-id="Sports Tv.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="FB TV" tvg-id="FB TV.tr" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
-https://api1.canlitvplayer.com/tgn.bozztv.com/trn03/gin-fbtv1/tracks-v1a1/mono.m3u8?nimblesessionid=878723006&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDI1IDI6MzA6MDEgUE0maGFzaF92YWx1ZT1ud3FWeURPeU44SndZYXNmOVhsSHpBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MTU=
-#EXTINF:-1 tvg-name="NBA TV" tvg-id="NBA TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
-#EXTVLCOPT:http-referrer=https://inattv943.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10019
-#EXTINF:-1 tvg-name="Euro Sport" tvg-id="Eurosport.tr" tvg-logo="https://i.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg" group-title="Spor",Euro Sport
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10027
-#EXTINF:-1 tvg-name="Euro Sport 2" tvg-id="Eurosport 2.tr" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1glc8nr85cpa21r4ahv8074dqs_image-header_pDach_1661948775000&quality=70" group-title="Spor",Euro Sport 2
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10026
-#EXTINF:-1 tvg-name="Tivibu Spor" tvg-id="Tivibu Spor.tr" tvg-logo="https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg" group-title="Spor",Tivibu Spor
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1746
-#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-id="Tivibu Spor 1.tr" tvg-logo="https://i.ytimg.com/vi/ofzqhIKGZSU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgSSh_MA8=&rs=AOn4CLBy4OjH5UMfcAel5RwzlDYUqCmhUw" group-title="Spor",Tivibu Spor 1
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://yukari.markajtv359.xyz/yayint1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-id="Tivibu Spor 2.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_2_TR_logo_v2.png?1733730885" group-title="Spor",Tivibu Spor 2
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://bidaye.mevzuhls23.cfd/yayint2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-id="Tivibu Spor 3.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Tivibu_Spor_3_TR_logo_v2.png?1733730977" group-title="Spor",Tivibu Spor 3
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10010
-#EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-id="Tivibu Spor 4.tr" tvg-logo="data:image/png;base64,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" group-title="Spor",Tivibu Spor 4
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://sporligtv600.live/restrm/cek.m3u8?u=https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcuktivibuspor4/playlist.m3u8
-#EXTINF:-1 tvg-name="Spor Smart" tvg-id="Spor Smart.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
-#EXTVLCOPT:http-referrer=https://netsporgiriss.com/channel.html?id=yayinsmarts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-origin=https://netsporgiriss.com
-https://t6co.ragiccgds36.workers.dev/list/yayinsmarts.m3u8
-#EXTINF:-1 tvg-name="Spor Smart 2" tvg-id="Spor Smart 2.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2
-#EXTVLCOPT:http-referrer=https://trgoals1201.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://yukari.markajtv359.xyz/yayinsms2.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
+https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
+
 #EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
 #EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -57,38 +12,18 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 #EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-id="beIN SPORTS Haber.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp" group-title="Spor",beIN SPORTS Haber
-https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://bidahat.mevzuhls22.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://sporligtv600.live/restrm/cek.m3u8?u=https://mobil.92test.cfd/yayint24.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/bein-sports-1/playlist.m3u8
+#EXTINF:-1 tvg-name="HT Spor" tvg-id="HT Spor.tr" tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj" group-title="Spor",HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+#EXTINF:-1 tvg-name="Sports TV" tvg-id="Sports Tv.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
 #EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://yukari.markajtv359.xyz/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://sporligtv600.live/restrm/cek.m3u8?u=https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsports1/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://sporligtv601.live/restrm/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://due.b7d6fbb7f7093400.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-id="beIN SPORTS 2.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-2-hd.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://izlemac4217.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -114,6 +49,16 @@ https://alpha.cf-worker-fe1eb2e4a902756b.workers.dev/live/selcukbeinsportsmax1/p
 #EXTVLCOPT:http-referrer=https://trgoals1201.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://aksa.mevzuhls19.cfd/yayinbm2.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="Spor",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-name="TRT Spor Yıldız 1080p" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="Spor",TRT Spor Yıldız
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
+#EXTINF:-1  tvg-name="TRT Spor Yıldız" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="Spor",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Spor",Sports TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="Spor",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-id="Tabii Spor.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8juuOTEz0HTNRA-AE6f7FxQquA4dGTzQYQ&s" group-title="Spor",Tabii Spor
 #EXTVLCOPT:http-referrer=https://golvar2014.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -155,18 +100,10 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-id="TabiiSpor6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43020.jpeg" group-title="Spor",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" group-title="Spor",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="Spor",TRT Spor Yıldız
-https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
-#EXTINF:-1  tvg-name="TRT Spor Yıldız" tvg-id="trtsporyildiz" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" group-title="Spor",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="A Spor" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" group-title="Spor",A Spor
-https://tv.arectv13.sbs/live/aspor.m3u8
-#EXTINF:-1 group-title="Spor",Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="Spor",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="TRT",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -826,7 +763,3 @@ https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Platform" tvg-id="Platform" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUwOGE0ZmUtZWUzYi00ZjdkLWE1YTEtMDFjZjNjZWY1ZjM4XkEyXkFqcGc@._V1_.jpg" group-title="Filmler",Platform
-https://vidmody.com/vs/tt8228288
-#EXTINF:-1 tvg-name="Platform 2" tvg-id="Platform 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4YjkyODctMGJmNC00YjBjLTllNjAtNDkxNTJmZjg4MGZkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Filmler",Platform 2
-https://zm1w.uk-traffic-076.com/hls2/02/00025/iizlk3g10zc3_n/index-v1-a1.m3u8?t=2YXExoe4NDWvfHZNyixgdZnN3kcly20x-3ct2ehkSLM&s=1739120767&e=43200&f=125610&srv=x2&i=0.0&sp=5000&fr=iizlk3g10zc3&p1=zm1w&p2=zm1w
